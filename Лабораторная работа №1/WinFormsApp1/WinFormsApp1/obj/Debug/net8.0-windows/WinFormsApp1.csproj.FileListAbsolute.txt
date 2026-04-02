@@ -1,0 +1,6 @@
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MusicTrack.resources
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\Поддержка и тестирование ПМ\ЛАБЫ\Лабораторная работа №1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
